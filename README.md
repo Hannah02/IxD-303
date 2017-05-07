@@ -1,8 +1,13 @@
 # IxD-303
 IXD301: Designing User Experiences
 
+-[Proof that I did the Javascript thing cause I'm really proud cause coding is hard...](https://twitter.com/HannahLizSharp/status/829087025404006403)
+
 -[User persona](http://hannahsharpblog.tumblr.com/post/160408188116/drizzzle-user-profile-while-talking-about-my-app)
 This persona focuses on the group of young designers I want this app to be styled towards.
+
+-[Keynote workshop outcome](https://www.dropbox.com/s/a5h80rfk6kjm7qo/TacoPrototype.m4v?dl=0)
+The outcome of the keynote prototyping workshop, a copy of [this](https://capptivate.co/2014/11/23/goji/)
 
 -[Keynote prototype 1](https://www.dropbox.com/s/54qdiptqlfen7hl/Drizzzle1.m4v?dl=0)
 
