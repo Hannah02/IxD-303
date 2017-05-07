@@ -5,4 +5,6 @@ IXD301: Designing User Experiences
 
 [Prototype No. 1](https://www.dropbox.com/s/54qdiptqlfen7hl/Drizzzle1.m4v?dl=0)
 
+[Prototype No.2](https://www.dropbox.com/s/iozp4h3raadqpgl/DrizzzlePrototype2.m4v?dl=0)
+
 
