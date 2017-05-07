@@ -1,0 +1,236 @@
+body {
+    overflow-y: inherit;}
+
+/* Typography */
+p, h1, h2, {
+    font-kerning: auto;
+    font-weight: 100;}
+
+h1 {font-family: 'Philosopher', sans-serif;
+    font-size: 60px;
+    font-weight: 100;}
+
+#app {
+    color: #A05E7A;
+    text-align: center;}
+
+#featuresWeather h1 {
+    width: 400px;
+    color: #8B97C4;
+    margin-left: 310px;
+    margin-top: 120px;}
+
+#featuresWeather p{
+    margin-left: 315px;
+    }
+
+
+#featuresInterface h1 {
+    width: 470px;
+    color: #FFFFFF;
+    margin-left: 650px;
+    text-align: left;}
+
+#featuresInterface p {
+    text-align: left;
+    margin-left: 650px;
+    width: 400px;
+}
+
+#comingSoon {width: 00px;
+    color: #8B97C4;
+    margin-left: 330px;
+    margin-top: 180px;}
+
+#app h1{margin-top: 90px;}
+
+h2 {
+    font-family:'Ovo',serif;
+    font-weight: 100;
+    font-size: 30px;
+    margin-top: -50px;}
+
+p   {
+    font-size: 19px;
+    margin-top: 20px;
+    font-weight: 100;
+    width: 400px;
+    font-family:'Ovo',serif;
+    color: #000000;}
+
+nav {
+    font-family:'Ovo',serif;
+    color: #000000;
+    font-weight: 100;
+    font-size: 19px;}
+
+a   {
+    text-decoration: none;}
+a:visited {
+    color: #000000;}
+a:hover {
+    color: #A05E7A;}
+
+#navText {position: absolute;
+    left: 1130px;
+    top: 15px;}
+
+#download p {margin-left: 333px}
+
+
+
+/* Positioning */
+nav {
+    width: 1440px;
+    z-index: 1;
+    height: 60px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: #FFFFFF;}
+
+#app {
+    left: 0;
+    z-index: 0;
+    position: absolute;
+    height: 700px;
+    width: 1440px;
+    top: 0;
+    background-color: #F9DFD9;
+    }
+
+#featuresWeather {
+    left: 0;
+    position: absolute;
+    height: 500px;
+    width: 1440px;
+    top: 700px;
+    background-color: #FFFFFF;
+}
+
+#featuresInterface {
+    left: 0;
+     position: absolute;
+    height: 400px;
+    width: 1440px;
+    top: 1200px;
+    background-color: #A8F6B3;
+}
+
+#download {left: 0;
+     position: absolute;
+    height: 550px;
+    width: 1440px;
+    top: 1600px;
+    background-color: #ffffff;}
+
+#footer {left: 0;
+     position: absolute;
+    height: 60px;
+    width: 1440px;
+    background-color: #8B97C4;
+    top: 2150px;}
+
+
+/* Images */
+
+#appPhone {
+    z-index: 0;
+    position: relative;
+    top: 180px;
+    height: 480px;
+    display: block;
+    margin: inherit;
+    left: 480px;}
+
+a {color: black;}
+
+#igloo {z-index: 0;
+    position: relative;
+    top: 210px;
+    height: 480px;
+    display: block;
+    margin: inherit;
+    left: 660px;}
+
+#closeUp {z-index: 0;
+    position: relative;
+    top: 216px;
+    height: 380px;
+    display: block;
+    margin: inherit;
+    left: 290px;}
+
+#twitter, #dribbble, #insta {
+    height: 25px;
+    top: 14px;
+    position: relative;
+    z-index: 0;}
+
+#twitter {left: 575px;}
+#dribbble {left: 675px;}
+#insta {left: 775px;}
+
+#appStore {z-index: 0;
+    position: absolute;
+   width: 200px;
+    margin-top: -120px;
+    margin-left: 920px;}
+
+#googlePlay {z-index: 0;
+    position: absolute;
+    width: 200px;
+        margin-top: -190px;
+    margin-left: 920px;
+    }
+
+/* Inner Shadow */
+nav {
+    -webkit-box-shadow: 0 8px 40px -6px #AA6F84;
+    -moz-box-shadow: 0 8px 40px -6px #AA6F84;
+     box-shadow: 0 8px 40px -6px #95848A;}
+
+#app {
+    box-shadow: inset 0 -8px 40px -6px #95848A;
+    -moz-box-shadow: inset 0 -8px 40px -6px #95848A;
+    -webkit-box-shadow: inset 0 -8px 40px -6px #95848A;
+    }
+
+#featuresInterface {
+    box-shadow: inset 0 8px 40px -6px #56745B;
+    -moz-box-shadow: inset 0 -8px 40px -6px #56745B;
+    -webkit-box-shadow: inset 0 -8px 40px -6px #56745B;
+    }
+
+#footer {
+    box-shadow: inset 0 8px 40px -6px #2D3965;
+     -moz-box-shadow: inset 0 -8px 40px -6px #2D3965;
+    -webkit-box-shadow: inset 0 -8px 40px -6px #2D3965;
+}
+
+#drizzzle {height: 35px;
+    position: absolute;
+    left: 50px;
+top: 10px;}
+
+
+/* Text selection */
+::selection {
+  background: #F9DFD9; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #F9DFD9; /* Gecko Browsers */
+
+}
+
+
+/* Animation */ 
+#drizzzleH1 {animation-duration: 2s;
+animation-delay: 0.5s;}
+
+#weatherH2 {animation-duration: 2s;
+animation-delay: 1s;}
+
+#appPhone {
+animation-duration: 1s;
+animation-delay: 1.5s; }
