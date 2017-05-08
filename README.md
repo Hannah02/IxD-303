@@ -17,7 +17,9 @@ These prototypes show how simple my app is to use and the visual transitions tha
 -[Style tile](http://hannahsharpblog.tumblr.com/post/160412020396/weather-app-style-tile-this-style-tile-shows-the)
 This style tile sets the visual standards for the website promoting the app, and the app itself.
 
--[Branding](https://Hannah02.github.io/IxD-303/Branding.png)
+-[Branding](https://Hannah02.github.io/IxD-303/Branding.png) 
+A parody of the dribbble logo, making fun of the fact that my target audience was basically Dribbble's user base.
+
 -[More branding](https://Hannah02.github.io/IxD-303/Branding2.png)
 After reading Dribbble's brand guidelines, I highly doubt they would ever green-light an app like this, even when it is , but it was a fun concept idea to play around with for this project.
 
