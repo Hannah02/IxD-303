@@ -21,7 +21,7 @@ This style tile sets the visual standards for the website promoting the app, and
 A parody of the dribbble logo, making fun of the fact that my target audience was basically Dribbble's user base.
 
 -[More branding](https://Hannah02.github.io/IxD-303/Branding2.png)
-After reading Dribbble's brand guidelines, I highly doubt they would ever green-light an app like this, even when it is , but it was a fun concept idea to play around with for this project.
+After reading Dribbble's brand guidelines, I highly doubt they would ever green-light an app like this, even though it is done in parody, but it was a fun concept idea to play around with for this project.
 
 -[Some of the illustrations for this app that I posted on Dribbble](https://dribbble.com/HannahLizSharp/projects/494585-Weather-App)
 
