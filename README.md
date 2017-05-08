@@ -26,7 +26,9 @@ After reading Dribbble's brand guidelines, I highly doubt they would ever green-
 -[Some of the illustrations for this app that I posted on Dribbble](https://dribbble.com/HannahLizSharp/projects/494585-Weather-App)
 
 -[App final site](https://Hannah02.github.io/IxD-303/DrizzzleSite/index.html)
+
 This is the final site that advertises the app concept and links to a preliminary version of the app.
+(******IMPORTANT******* In the past day the app itself has refused to load to to the OpenWeatherMap API. People online have had similar issues when running this API through code pen too. If this happens, go to the browsers search bar and you should see an icon of a shield with a red X through it. Click on that and "Load Unsafe Scripts". This will display the site.)
 
 -[Research blog for this module](http://hannahsharpblog.tumblr.com/search/ixd303)
 All my research posts, including sketch-work and work that inspired me.
